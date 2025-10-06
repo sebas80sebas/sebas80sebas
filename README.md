@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Iván Sebastián Loor Weir
-
 **Cloud Engineer | DevOps | Infrastructure Automation**
 
 Computer Engineer specialized in cloud architectures, microservices, and DevOps automation. 
