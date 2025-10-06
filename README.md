@@ -20,5 +20,4 @@ Research background in virtual containers and edge-to-cloud environments.
 - ☁️ Serverless cloud automation solutions
 
 📍 Universidad Carlos III de Madrid 
-📧 Reach me via sebas80sebas@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/iván-sebastián-loor-weir-386305271)
+📧 Reach me via sebas80sebas@gmail.com or 🔗 [LinkedIn](https://www.linkedin.com/in/iván-sebastián-loor-weir-386305271)
