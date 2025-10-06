@@ -19,6 +19,6 @@ Research background in virtual containers and edge-to-cloud environments.
 - 📊 Multi-tenant monitoring dashboards
 - ☁️ Serverless cloud automation solutions
 
-📍 Universidad Carlos III de Madrid  
-🔗 [LinkedIn](https://www.linkedin.com/in/iván-sebastián-loor-weir-386305271)
+📍 Universidad Carlos III de Madrid 
 📧 Reach me via sebas80sebas@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/iván-sebastián-loor-weir-386305271)
