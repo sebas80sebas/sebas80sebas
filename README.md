@@ -7,8 +7,7 @@ Research background in virtual containers and edge-to-cloud environments.
 
 ### Core Expertise
 🔹 Azure Cloud Administration | Zabbix Monitoring | Kubernetes  
-🔹 CI/CD Pipelines | Infrastructure as Code | Cost Optimization  
-🔹 Python Automation | Docker | Distributed Systems  
+🔹 Docker | Distributed Systems | IoT | Python Automation
 
 ### Tech Stack
 `Azure` `Kubernetes` `Docker` `Python` `Zabbix` `Grafana` `Prometheus` `Bash` 
