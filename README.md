@@ -21,7 +21,3 @@ Research background in virtual containers and edge-to-cloud environments.
 📍 Universidad Carlos III de Madrid 
 
 📧 Reach me via sebas80sebas@gmail.com or 🔗 [LinkedIn](https://www.linkedin.com/in/iván-sebastián-loor-weir-386305271)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebas80sebas&show_icons=true&theme=transparent)
