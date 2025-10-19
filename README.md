@@ -26,6 +26,4 @@ Research background in virtual containers and edge-to-cloud environments.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas80sebas&layout=donut-vertical&theme=transparent)](https://github.com/sebas80sebas/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sebas80sebas&theme=black-ice)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebas80sebas&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sebas80sebas&theme=transparent)](https://git.io/streak-stats)
