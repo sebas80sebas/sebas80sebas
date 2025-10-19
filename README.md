@@ -1,4 +1,4 @@
-## About me
+## ABOUT ME
 
 **Cloud Engineer | DevOps | Infrastructure Automation**
 
@@ -24,6 +24,6 @@ Research background in virtual containers and edge-to-cloud environments.
 
 ### Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebas80sebas&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas80sebas&layout=donut-vertical&theme=transparent)](https://github.com/sebas80sebas/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas80sebas&layout=donut-vertical)](https://github.com/sebas80sebas/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebas80sebas&show_icons=true&theme=transparent)
