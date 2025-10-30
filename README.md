@@ -29,4 +29,4 @@ Research background in virtual containers and edge-to-cloud environments.
 
 [![GitHub Streak](https://github-readme-streak-stats-puce-pi.vercel.app?user=sebas80sebas&theme=transparent)](https://git.io/streak-stats)
 
-[![sebas80sebas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sebas80sebas&theme=react-dark)](https://github.com/sebas80sebas/github-readme-activity-graph)
+[![sebas80sebas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sebas80sebas&theme=github-dark)](https://github.com/sebas80sebas/github-readme-activity-graph)
