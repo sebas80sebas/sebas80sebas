@@ -6,7 +6,7 @@ Computer Engineer specialized in cloud architectures, microservices, and DevOps 
 Research background in virtual containers and edge-to-cloud environments.
 
 ### Core Expertise
-🔹 Azure Cloud Administration | Zabbix Monitoring | Kubernetes  
+🔹 Azure Cloud Administration | Zabbix Monitoring | Kubernetes | Apptainer
 🔹 Docker | Distributed Systems | IoT | Python Automation
 
 ### Tech Stack
