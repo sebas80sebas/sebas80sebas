@@ -10,7 +10,7 @@ Research background in virtual containers and edge-to-cloud environments.
 🔹 Docker | Distributed Systems | IoT | Python Automation
 
 ### Tech Stack
-`Azure` `Kubernetes` `Docker` `Python` `Zabbix` `Grafana` 
+`Azure` `Kubernetes` `Docker` `Python` `Zabbix` `Grafana` `Apptainer`
 `Prometheus` `Bash` `SQL` `MongoDB` `Cassandra` `C++` `C` 
 `Javascript` `PL/SQL` `MariaDB` `PowerShell`
 
