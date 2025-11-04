@@ -11,9 +11,9 @@ Research background in virtual containers and edge-to-cloud environments.
 🔹 Distributed Systems | IoT | Python Automation | Edge-Fog-Cloud Architecture
 
 ### Tech Stack
-`Azure` `Kubernetes` `Docker` `Python` `Zabbix` `Grafana` `Apptainer`
-`Prometheus` `Bash` `SQL` `MongoDB` `Cassandra` `C++` `C` 
-`Javascript` `PL/SQL` `MariaDB` `PowerShell`
+`Azure` `Terraform` `Kubernetes` `Docker` `Apptainer`  `Zabbix` `Grafana` `Prometheus`
+`Python` `C++` `C` `Javascript` `Bash` `PowerShell` `SQL` `MongoDB` `Cassandra` `PL/SQL` 
+`MariaDB`    
 
 ### Featured Projects
 - 🔄 Automated Zabbix metrics collection with Azure Functions
