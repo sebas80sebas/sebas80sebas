@@ -13,7 +13,7 @@ Research background in virtual containers and edge-to-cloud environments.
 ### Tech Stack
 `Azure` `Terraform` `Kubernetes` `Docker` `Apptainer`  `Zabbix` `Grafana` `Prometheus`
 `Python` `C++` `C` `Javascript` `Bash` `PowerShell` `SQL` `MongoDB` `Cassandra` `PL/SQL` 
-`MariaDB`    
+`MariaDB` `PHP` `Apache` `Nginx`   
 
 ### Featured Projects
 - 🔄 Automated Zabbix metrics collection with Azure Functions
