@@ -1,8 +1,8 @@
 ## ABOUT ME
 
-**Cloud Engineer | DevOps | Infrastructure Automation**
+**Cloud Consultant | DevOps | Infrastructure Automation**
 
-Computer Engineer specialized in cloud architectures, microservices, and DevOps automation. 
+Cloud Engineer specialized in infrastructure, cloud architectures, microservices, and DevOps automation. 
 Research background in virtual containers and edge-to-cloud environments.
 
 ### Core Expertise
@@ -19,8 +19,6 @@ Research background in virtual containers and edge-to-cloud environments.
 - 🔄 Automated Zabbix metrics collection with Azure Functions
 - 📊 Multi-tenant monitoring dashboards
 - ☁️ Serverless cloud automation solutions
-  
-📍 Universidad Carlos III de Madrid 
 
 📧 Reach me via sebas80sebas@gmail.com or 🔗 [LinkedIn](https://www.linkedin.com/in/iván-sebastián-loor-weir-386305271)
 
