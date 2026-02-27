@@ -7,9 +7,13 @@ Research background in virtual containers and edge-to-cloud environments.
 
 ### Core Expertise
 🔹 **Cloud Architecture & IaC:** Azure, Terraform (AVM), Ansible, Landing Zones
+
 🔹 **CI/CD & DevOps:** GitHub Actions, Azure DevOps, Docker, Kubernetes
+
 🔹 **Automation & Scripting:** Python, PowerShell, Bash, Power Automate
+
 🔹 **Monitoring & Observability:** Zabbix, Grafana, Prometheus, Azure Monitor
+
 🔹 **IoT & Distributed Systems:** MQTT, RPC, P2P Architectures
 
 ### Tech Stack
