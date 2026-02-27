@@ -20,7 +20,7 @@ Research background in virtual containers and edge-to-cloud environments.
 - 📊 Multi-tenant monitoring dashboards
 - ☁️ Serverless cloud automation solutions
 
-📧 Reach me via sebas80sebas@gmail.com or 🔗 [LinkedIn](https://www.linkedin.com/in/iván-sebastián-loor-weir-386305271)
+📧 Reach me via sebas80sebas@gmail.com or 🔗 [LinkedIn](https://www.linkedin.com/in/ivansebastianloorweir/)
 
 ### Github Stats
 
