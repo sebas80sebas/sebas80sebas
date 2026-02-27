@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-**Cloud Consultant | DevOps | Infrastructure Automation**
+**DevOps Engineer | Cloud Consultant | Infrastructure Automation**
 
 Cloud Engineer specialized in infrastructure, cloud architectures, microservices, and DevOps automation. 
 Research background in virtual containers and edge-to-cloud environments.
