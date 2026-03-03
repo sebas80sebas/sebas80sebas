@@ -27,8 +27,8 @@ Reach me via sebas80sebas@gmail.com or [LinkedIn](https://www.linkedin.com/in/iv
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats-one-xi-27.vercel.app/api/top-langs/?username=sebas80sebas&layout=donut-vertical&theme=transparent)](https://github.com/sebas80sebas/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-xi-27.vercel.app/api/top-langs/?username=sebas80sebas&layout=donut-vertical&theme=transparent&count_private=true&include_all_commits=true)](https://github.com/sebas80sebas/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats-puce-pi.vercel.app?user=sebas80sebas&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-puce-pi.vercel.app?user=sebas80sebas&theme=transparent&count_private=true&include_all_commits=true)](https://git.io/streak-stats)
 
 [![sebas80sebas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sebas80sebas&theme=github-dark)](https://github.com/sebas80sebas/github-readme-activity-graph)
